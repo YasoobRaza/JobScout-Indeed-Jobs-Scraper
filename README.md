@@ -35,4 +35,4 @@
    ```
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to **JobScout**, please follow these guidelines:
+Contributions are welcome! If you have suggestions for improvements or features, please open an issue or submit a pull request.
